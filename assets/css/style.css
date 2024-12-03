@@ -31,11 +31,7 @@
   .header-row a {
     text-decoration: none;
   }
-
-  .header-row a:hover {
-    text-decoration: underline;
-  }
-
+  
   .row {
     padding: 100px;
     height: 75%;
@@ -55,7 +51,7 @@
   }
 
   button {
-    background-color: teal;
+    background-color: rgb(3, 9, 9);
     padding: 10px;
     color: white;
     border: none;
